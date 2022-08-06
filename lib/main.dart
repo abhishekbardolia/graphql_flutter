@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:graphql_flutter/graphql_flutter.dart';
 
+// This is just a demo of graphql
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   await initHiveForFlutter();
