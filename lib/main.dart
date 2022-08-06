@@ -48,7 +48,6 @@ class _MyHomePageState extends State<MyHomePage> {
   List<dynamic> character = [];
   bool _loading = false;
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
